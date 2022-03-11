@@ -1,0 +1,22 @@
+{
+  "card": [
+    {
+      "name": "Alex Wicaksono",
+      "id": 1
+    },
+    {
+      "name": "Lionel Ronaldo",
+      "id": 2
+    }
+  ],
+  "data": [
+    {
+      "name": "Juara 1 Tidur",
+      "id": 1
+    },
+    {
+      "name": "Juara 2 Ngantuk",
+      "id": 2
+    }
+  ]
+}
